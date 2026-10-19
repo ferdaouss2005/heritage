@@ -26,4 +26,8 @@ au debut j ai trouve ce probleme
 mais c est resolu , ce exercice etait amusant et besoin de concentration a la fois 
 <img width="656" height="273" alt="image" src="https://github.com/user-attachments/assets/6228033b-ac4c-4a26-ad21-3bc32fc1e03e" />
 
+ Exercice 4: 
+ resultat 
+ <img width="407" height="191" alt="image" src="https://github.com/user-attachments/assets/a718f16c-454b-4e5a-b343-2b31d1fd05cd" />
+
 
