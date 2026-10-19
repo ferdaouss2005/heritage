@@ -15,3 +15,8 @@ public void retirer(double montant) {
 }
 que j ai ecris apres afficherDetails() dans la classe CompteEpargne
 <img width="473" height="472" alt="image" src="https://github.com/user-attachments/assets/e8f776d5-a7c7-4d30-aedc-941cebb79e33" />
+
+
+Exercice2: 
+<img width="388" height="181" alt="image" src="https://github.com/user-attachments/assets/630a1745-5d50-4d3e-8430-3b99cdb0a18a" />
+
