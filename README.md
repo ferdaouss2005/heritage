@@ -20,3 +20,10 @@ que j ai ecris apres afficherDetails() dans la classe CompteEpargne
 Exercice2: 
 <img width="388" height="181" alt="image" src="https://github.com/user-attachments/assets/630a1745-5d50-4d3e-8430-3b99cdb0a18a" />
 J’ai testé plusieurs animaux et l’agrandissement automatique du tableau. J’ai aussi testé les méthodes spécifiques de chaque animal pour voir si tout fonctionne correctement.
+Exercice 3 
+<img width="434" height="143" alt="image" src="https://github.com/user-attachments/assets/d506366c-29cd-4c7d-9ae2-3e2946132aa2" />
+au debut j ai trouve ce probleme
+mais c est resolu , ce exercice etait amusant et besoin de concentration a la fois 
+<img width="656" height="273" alt="image" src="https://github.com/user-attachments/assets/6228033b-ac4c-4a26-ad21-3bc32fc1e03e" />
+
+
