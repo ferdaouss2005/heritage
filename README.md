@@ -19,4 +19,4 @@ que j ai ecris apres afficherDetails() dans la classe CompteEpargne
 
 Exercice2: 
 <img width="388" height="181" alt="image" src="https://github.com/user-attachments/assets/630a1745-5d50-4d3e-8430-3b99cdb0a18a" />
-
+J’ai testé plusieurs animaux et l’agrandissement automatique du tableau. J’ai aussi testé les méthodes spécifiques de chaque animal pour voir si tout fonctionne correctement.
